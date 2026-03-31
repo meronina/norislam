@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>سياسة الخصوصية - أسئلة دينية</title>
+    <style>body{font-family: 'Cairo', sans-serif; padding: 20px; line-height: 1.7; max-width: 800px; margin: auto;}</style>
+</head>
+<body>
+
+<h1>سياسة الخصوصية</h1>
+<p><strong>التطبيق:</strong> أسئلة دينية وإجاباتها</p>
+<p><strong>تاريخ السريان:</strong> 31 مارس 2026</p>
+
+<h2>مقدمة</h2>
+<p>يهدف تطبيق "أسئلة دينية" إلى تقديم أسئلة واختبارات دينية إسلامية بشكل ممتع ومفيد. نحن نحترم خصوصيتك تماماً.</p>
+
+<h2>المعلومات التي نجمعها</h2>
+<p>التطبيق **لا يجمع أي بيانات شخصية** عنك، ولا يطلب أي معلومات مثل الاسم، البريد الإلكتروني، رقم الهاتف، أو موقعك.</p>
+<p>جميع الأسئلة والإجابات مخزنة داخل التطبيق نفسه، ولا يتم إرسال أي بيانات إلى أي خادم خارجي.</p>
+
+<h2>البيانات المحلية فقط</h2>
+<p>يستخدم التطبيق:</p>
+<ul>
+    <li>ملفات الصوت المحلية (لتشغيل صوت "أحسنت" عند الإجابة الصحيحة).</li>
+    <li>ملف الأسئلة الداخلي (questions.json).</li>
+</ul>
+<p>هذه الملفات لا تترك جهازك أبداً.</p>
+
+<h2>الأطفال تحت سن 13</h2>
+<p>التطبيق مناسب للأطفال، و**لا يجمع أي بيانات** منهم. لا يحتوي على إعلانات ولا يطلب أي معلومات شخصية.</p>
+
+<h2>التغييرات في السياسة</h2>
+<p>قد نقوم بتحديث هذه السياسة في المستقبل. سننشر التغييرات هنا، ويُنصح بمراجعتها دورياً.</p>
+
+<h2>اتصل بنا</h2>
+<p>إذا كان لديك أي أسئلة حول سياسة الخصوصية، يمكنك التواصل معنا عبر: [أدرج بريدك الإلكتروني هنا]</p>
+
+<p style="margin-top: 50px; font-size: 0.9em; color: #666;">
+  هذه السياسة مخصصة لتطبيق "أسئلة دينية" وتعكس ممارساته الحالية (لا يوجد جمع بيانات).
+</p>
+
+<!-- النسخة الإنجليزية -->
+<hr>
+<h1>Privacy Policy</h1>
+<p><strong>App Name:</strong> Islamic Religious Questions</p>
+<p><strong>Effective Date:</strong> March 31, 2026</p>
+
+<p>This app does not collect, store, or share any personal data from users.</p>
+<p>All content (questions and audio) is stored locally on your device and never leaves it.</p>
+<p>The app is completely offline and does not require an internet connection.</p>
+<p>It is suitable for children and does not contain any ads or tracking.</p>
+
+<p>If you have any questions, please contact us at: [your email]</p>
+
+</body>
+</html>
