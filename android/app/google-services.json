@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "172323605183",
+    "project_id": "religious-qa-app-2026-a4aed",
+    "storage_bucket": "religious-qa-app-2026-a4aed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172323605183:android:8f801bb0faa0ac1c8b940a",
+        "android_client_info": {
+          "package_name": "com.abdulrahman.tasbeeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172323605183-bhjfgg24do35us51t9l71nl0rqg88l30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdulrahman.tasbeeh",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabc607"
+          }
+        },
+        {
+          "client_id": "172323605183-lm8kppe0tbdstiq5mu097jt6tfrobu2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdulrahman.tasbeeh",
+            "certificate_hash": "ab30d0a55f4431ddf51e21941e9a9580356c76bb"
+          }
+        },
+        {
+          "client_id": "172323605183-kvge4p4nvlv0qd9ia2vq3co72vllj5p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHJKyL7eNWrxyvFJO9DNPUS2paOX-e5Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172323605183-kvge4p4nvlv0qd9ia2vq3co72vllj5p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172323605183-5e898vhp9mg9pibuqodeggqblqn58tii.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abdulrahman.tasbeeh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

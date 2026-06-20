@@ -1,0 +1,58 @@
+name: religious_qa_app
+description: "A religious QA and Tasbeeh application with Prayer Times and Azkar."
+publish_to: 'none'
+version: 1.0.0+1
+
+# 💡 هذا هو الجزء السحري والناقص الذي يحل مشكلة الـ SDK Constraint تماماً
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # ================= UI =================
+  google_fonts: ^8.1.0
+  lottie: ^3.3.3
+  confetti: ^0.8.0
+  flutter_animate: ^4.5.0
+  flutter_staggered_animations: ^1.1.1
+  smooth_page_indicator: ^2.0.1
+
+  # ================= FIREBASE =================
+  firebase_core: ^4.10.0
+  cloud_firestore: ^6.5.0
+  firebase_auth: ^6.5.2
+
+  # ================= LOCAL CACHE =================
+  shared_preferences: ^2.5.5
+
+  # ================= AUDIO & SHARE =================
+  audioplayers: ^6.7.0
+  share_plus: ^13.0.0
+
+  # ================= UTILITIES =================
+  intl: ^0.20.2
+  uuid: ^4.5.1
+  connectivity_plus: ^7.1.1
+
+  # ================= PRAYER TIMES & QIBLA =================
+  geolocator: ^14.0.2
+  adhan: ^2.0.0
+  hijri: ^3.0.0
+  flutter_compass: ^0.8.1
+  flutter_local_notifications: ^21.0.0
+  timezone: ^0.11.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  # إذا كان لديك ملفات assets أو fonts أضفها بالأسفل هنا مع مراعاة المسافات
