@@ -21,3 +21,12 @@
 2. قم باستنساخ المستودع (Clone):
 ```bash
    git clone [https://github.com/meronina/norislam.git](https://github.com/meronina/norislam.git)
+## 📥 حمل التطبيق الآن
+التطبيق متاح حالياً على متجر Google Play مع تقييم 5.0 نجوم. يمكنك تحميله وتجربته مباشرة من هنا:
+
+<a href="https://play.google.com/store/apps/details?id=com.abdulrahman.tasbeeh">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200">
+</a>
+
+---
+*تم التطوير بواسطة عبد الرحمن خليل - [ملفي الشخصي على GitHub](https://github.com/meronina)*
