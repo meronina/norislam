@@ -1,17 +1,23 @@
-# religious_qa_app
+# norislam - تطبيق أنا المسلم: مسابقات أسئلة ذكاء 📱
 
-A new Flutter project.
+تطبيق إسلامي تفاعلي متكامل يجمع بين المعرفة الدينية والترفيه، مصمم لجميع أفراد الأسرة المسلمة لتعزيز حصيلتهم المعرفية بأسلوب عصري وسلس.
 
-## Getting Started
+## 🌟 نبذة عن التطبيق
+"أنا المسلم" ليس مجرد تطبيق أسئلة، بل هو رفيق يومي يهدف إلى تثقيف المستخدمين في أمور دينهم عبر واجهات مستخدم مريحة وتجربة تفاعلية ممتعة.
 
-This project is a starting point for a Flutter application.
+## 📱 مميزات التطبيق
+*   **تصميم عصري:** تم بناء التطبيق باستخدام Flutter لضمان تجربة مستخدم سلسة وواجهة متناسقة.
+*   **محتوى غني:** قاعدة بيانات متنوعة من المسابقات والأسئلة الدينية.
+*   **تفاعلي:** تغذية راجعة فورية ومباشرة للمستخدم عند الإجابة.
+*   **خصوصية عالية:** التطبيق مصمم ليحترم خصوصية المستخدمين ولا يجمع بيانات شخصية.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 التقنيات المستخدمة
+*   **Framework:** Flutter
+*   **Language:** Dart
+*   **Architecture:** Clean UI Architecture
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 كيف تشغل المشروع محلياً؟
+1. تأكد من تثبيت [Flutter SDK](https://docs.flutter.dev/get-started/install).
+2. قم باستنساخ المستودع (Clone):
+```bash
+   git clone [https://github.com/meronina/norislam.git](https://github.com/meronina/norislam.git)
